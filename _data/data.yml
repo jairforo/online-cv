@@ -45,11 +45,10 @@ sidebar:
 career-profile:
     title: Carrer Profile
     summary: |
-      I am a Senior Software Developer with 10+ years of focused experience in PHP applications with 
-      expertise in software architecture, development, database design and implementation. 
-      Duriing the last 3 years I had a joint responsibility, being also a technical manager and coordinatinga development team that I was part of.
+      I am a Senior Software Engineer with 10+ years of focused experience in PHP applications with
+      expertise in software architecture, quali, database design and implementation.
+      During the last 3 years I have been playing as Tech Lead wheof a team a technical manager and coordinatinga development team that I was part of.
 
-      Recently relocated to Amsterdam, I look forward to enjoying new professional experiences ina new software development team.
 education:
     - degree: Bachelor in Information System
       university: University Center of Federal District
@@ -78,6 +77,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: OLX Group, Amsterdam - Netherlands
@@ -89,9 +89,34 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+
+    - role: Full-stack Developer
+      time: May 2016 - Jan 2017
+      company: Icomunicação, Brasília - Brazil
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+    - role: IT Consultant
+      time: May 2016 - Jan 2017
+      company: Ministery of Education, Brasília - Brazil
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+    - role: IT Consultant
+      time: May 2016 - Jan 2017
+      company: Ministery of Education, Brasília - Brazil
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
