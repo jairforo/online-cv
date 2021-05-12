@@ -14,13 +14,13 @@ sidebar:
     # Sidebar links
     email: jairforo@gmail.com
     phone: +31 611 989 431
-    website: about.me/jairforo #do not add http://
+    website: #about.me/jairforo #do not add http://
     linkedin: jairforo/?locale=en_US
     github: jairforo
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jairforo'
+    twitter: #'@jairforo'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -43,12 +43,11 @@ sidebar:
         link:
 
 career-profile:
-    title: About me
+    title: Carrer Profile
     summary: |
-      I am a PHP Software Developer with 9+ years of focused experience in PHP 
-      applications withexpertise in software architecture, development, database design and implementation. 
-      Formore than 4 years I had a joint responsibility, 
-      being also a technical manager and coordinatinga development team that I was part of.
+      I am a Senior Software Developer with 10+ years of focused experience in PHP applications with 
+      expertise in software architecture, development, database design and implementation. 
+      Duriing the last 3 years I had a joint responsibility, being also a technical manager and coordinatinga development team that I was part of.
 
       Recently relocated to Amsterdam, I look forward to enjoying new professional experiences ina new software development team.
 education:
