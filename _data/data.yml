@@ -47,7 +47,6 @@ career-profile:
     summary: |
       I am a Senior Software Engineer with 10+ years of focused experience in PHP applications with
       expertise in software architecture, quality processes, database design and API implementations.
-      During the last 3 years I have been playing as Tech Lead wheof a team a technical manager and coordinatinga development team that I was part of.
 
 education:
     - degree: Bachelor in Information System
@@ -55,6 +54,7 @@ education:
       time: 2008 - 2012
       details: |
         Member of the Academic Directory of students of Technology of Information
+
 experiences:
     - role: Tech Lead
       time: Jan 2020 - Present
@@ -73,7 +73,7 @@ experiences:
           - Bullet point
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
+      time: Jan 2017 - Dec 2019
       company: OLX Group, Amsterdam - Netherlands
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -84,7 +84,7 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Full-stack Developer
+    - role: Full Stack Developer
       time: May 2016 - Jan 2017
       company: Icomunicação, Brasília - Brazil
       details: |
@@ -97,7 +97,7 @@ experiences:
           - Bullet point
 
     - role: IT Consultant
-      time: May 2016 - Jan 2017
+      time: Aug 2014 - May 2016
       company: Ministery of Education, Brasília - Brazil
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -108,9 +108,57 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: IT Consultant
-      time: May 2016 - Jan 2017
-      company: Ministery of Education, Brasília - Brazil
+    - role: PHP Programmer
+      time: Jun 2013 - Jun 2014
+      company: Cast Informática, Brasília - Brazil
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+    - role: PHP Programmer
+      time: Jun 2013 - Jun 2014
+      company: Cast Informática, Brasília - Brazil
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+    - role: PHP Programmer
+      time: Feb 2012 - Apr 2013
+      company: Confidere IT Services, Brasília - Brazil
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+    - role: Founder
+      time: Aug 2010 - Feb 2012
+      company: Brasíla Conectada IT Solutions, Brasília - Brazil
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+    - role: PHP Programmer
+      time: May 2010 - Nov 2010
+      company: Nova Mídia, Brasília - Brazil
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -172,10 +220,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: PHP OOD
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: ES6 & VueJS
         level: 98%
 
       - name: Angular
