@@ -46,7 +46,7 @@ career-profile:
     title: Carrer Profile
     summary: |
       I am a Senior Software Engineer with 10+ years of focused experience in PHP applications with
-      expertise in software architecture, quali, database design and implementation.
+      expertise in software architecture, quality processes, database design and API implementations.
       During the last 3 years I have been playing as Tech Lead wheof a team a technical manager and coordinatinga development team that I was part of.
 
 education:
@@ -54,13 +54,7 @@ education:
       university: University Center of Federal District
       time: 2008 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Member of the Academic Directory of students of Technology of Information
 experiences:
     - role: Tech Lead
       time: Jan 2020 - Present
