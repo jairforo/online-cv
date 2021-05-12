@@ -3,19 +3,19 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jair Foro
-    tagline: Software Engineer
+    tagline: Senior Software Engineer
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jairforo@gmail.com
     phone: +31 611 989 431
     website: about.me/jairforo #do not add http://
-    linkedin: jairforo
+    linkedin: jairforo/?locale=en_US
     github: jairforo
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -33,39 +33,28 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: #Climbing
         link:
 
-      - item: Snowboarding
+      - item: #Snowboarding
         link:
 
-      - item: Cooking
+      - item: #Cooking
         link:
 
 career-profile:
     title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a PHP Software Developer with 9+ years of focused experience in PHP 
+      applications withexpertise in software architecture, development, database design and implementation. 
+      Formore than 4 years I had a joint responsibility, 
+      being also a technical manager and coordinatinga development team that I was part of.
+
+      Recently relocated to Amsterdam, I look forward to enjoying new professional experiences ina new software development team.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor in Information System
+      university: University Center of Federal District
+      time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,9 +64,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Tech Lead
+      time: Jan 2020 - Present
+      company: Tradus B.V, Amsterdam - Netherlands
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,7 +81,7 @@ experiences:
           - Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
-      company: Google, London
+      company: OLX Group, Amsterdam - Netherlands
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
