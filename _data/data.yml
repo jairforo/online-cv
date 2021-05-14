@@ -45,7 +45,7 @@ sidebar:
 career-profile:
     title: Carrer Profile
     summary: |
-      I am a Senior Software Engineer with 10+ years of focused experience in PHP applications with
+      I am a Senior Software Engineer with 10+ years of focused experience in PHP applications,  with
       expertise in software architecture, quality processes, database design and API implementations.
 
 education:
@@ -99,18 +99,6 @@ experiences:
     - role: IT Consultant
       time: Aug 2014 - May 2016
       company: Ministery of Education, Brasília - Brazil
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-
-    - role: PHP Programmer
-      time: Jun 2013 - Jun 2014
-      company: Cast Informática, Brasília - Brazil
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
