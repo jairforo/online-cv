@@ -100,6 +100,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -119,7 +120,7 @@
       <workItem from="1620932429861" duration="1412000" />
       <workItem from="1620984136607" duration="396000" />
       <workItem from="1621664840799" duration="21000" />
-      <workItem from="1621664874114" duration="185000" />
+      <workItem from="1621664874114" duration="703000" />
     </task>
     <servers />
   </component>

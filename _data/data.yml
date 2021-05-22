@@ -69,53 +69,53 @@ experiences:
 
         Kudos Award Winner 2020 for being collaborative and provide support across departments.
 
+    - role: Tech Lead
+        time: Nov 2018 - Dec 2019
+        company: OLX Group, Amsterdam - Netherlands
+        details: |
+          Software Engineer responsible for leading the technical decisions and software design.
+
+          - Managed a team of 5 Developers in AMS and provided mentoring for the team working from abroad.
+          - Redesigned the platform to be white-label oriented for local and global markets;
+          - Led the decoupling of the Seller stock management monolith application;
+          - Built the technical roadmap which defined the changes and vision for the platform;
+
     - role: Senior Software Engineer
-      time: Jan 2017 - Dec 2019
-      company: OLX Group, Amsterdam - Netherlands
+      time: Jan 2017 - Nov 2018
+      company: OLX Group, Lisbon - Portugal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Responsible for the Developer eXperience ensuring scalability, availability and performance.
+
+        - Applied TDD as the main approach for the seller API;
+        - Implemented the API documentation using OpenAPI v3;
+        - Built the integration with AWS services for storage of images and Queue using S3;
+
+        Stack: Laravel 8, Symfony, MySQL, Redis, S3, SQS, EC2, Kibana, Grafana, Docker, Solr, PHP, New Relic, Sonarqube, Gitlab CI, Jenkins, Linux.
 
     - role: Full Stack Developer
       time: May 2016 - Jan 2017
       company: Icomunicação, Brasília - Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Development of web portals and Intranet;
+        - Development of a browser game that helps entrepreneurs with the educational path;
+
+        Stack: .NET Framework, WebForms, NodeJs, Angular 2, PHP, Microsoft SQL Server, Drupal, HTML, Ionic 2, Phaser.io.
 
     - role: IT Consultant
       time: Aug 2014 - May 2016
       company: Ministery of Education, Brasília - Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Consulting in PHP software development, analysis, and data modeling, using SIMEC Framework and PostgreSQL.
 
     - role: PHP Programmer
       time: Jun 2013 - Jun 2014
       company: Cast Informática, Brasília - Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I've collaborated with the software development and principles of Scrum methodology.
+
+        - Built a platform to receive innovative ideas that will support the education system in Brazil.
+
+        Stack: Zend Framework 2, PL/SQL, Bootstrap, Jquery, CSS, Doctrine 2
 
     - role: PHP Programmer
       time: Feb 2012 - Apr 2013
