@@ -121,37 +121,51 @@ experiences:
       time: Feb 2012 - Apr 2013
       company: Confidere IT Services, Brasília - Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Analysis, Set Architecture and OO PHP applications development following Marketplace Design Patterns.
+        Provide support for new developers and Development Team hires.
+
+        - Built a system to manage the families that are living inside the environment preservation areas managed by the government.
+        - Built a system to manage the subscriptions of people in the community interested in practising sports;
+
+        Stack: Zend Framework 2, Bootstrap, MySQL, PHP.
+
+    - role: PHP Developer | Internship
+      time: Aug 2011 - Oct 2011
+      company: FUNAI, Brasília - Brazil
+      details: |
+        - Software development to map the territory of Indigenous communities.
+
+        Stack: PHP, I3GEO, PostgreSQL
 
     - role: Founder
       time: Aug 2010 - Feb 2012
       company: Brasíla Conectada IT Solutions, Brasília - Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Responsible for prospecting new clients, Software development and managing the outsourcing team.
+
+        Stack: PHP, MySQL, Wordpress, HTML, CSS, Jquery.
 
     - role: PHP Programmer
       time: May 2010 - Nov 2010
       company: Nova Mídia, Brasília - Brazil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Website and E-commerce developments using PHP and WordPress;
+        - Content Management System development;
+        - SEO Optimization using webmaster tools and sitemaps
+
+        Stack: PHP, MySQL, HTML, Wordpress, JQuery, XML, CSS, Javascript.
+
+    - role: PHP Developer | Internship
+      time: Jul 2009 - May 2010
+      company: INSS, Brasília - Brazil
+      details: |
+        Software development of the monitoring system of the Agencies of the
+        Social Security.
+
+        - Refactor and Maintenance of legacy projects;
+        - Generate dynamic reports and charts to support the management decisions;
+
+        Stack: PHP, MySQL, HTML, Javascript.
 projects:
     title: Projects
     intro: >

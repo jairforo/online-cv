@@ -45,9 +45,6 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpServers">
-    <servers />
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="1680" />
     <option name="width" value="1920" />
@@ -98,6 +95,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -120,7 +121,7 @@
       <workItem from="1620932429861" duration="1412000" />
       <workItem from="1620984136607" duration="396000" />
       <workItem from="1621664840799" duration="21000" />
-      <workItem from="1621664874114" duration="703000" />
+      <workItem from="1621664874114" duration="1168000" />
     </task>
     <servers />
   </component>
