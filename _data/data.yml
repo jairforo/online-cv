@@ -70,15 +70,15 @@ experiences:
       Kudos Award Winner 2020 for being collaborative and provide support across departments.
 
   - role: Tech Lead
-      time: Nov 2018 - Dec 2019
-      company: OLX Group, Amsterdam - Netherlands
-      details: |
-        Software Engineer responsible for leading the technical decisions and software design.
+    time: Nov 2018 - Dec 2019
+    company: OLX Group, Amsterdam - Netherlands
+    details: |
+      Software Engineer responsible for leading the technical decisions and software design.
 
-        - Managed a team of 5 Developers in AMS and provided mentoring for the team working from abroad.
-        - Redesigned the platform to be white-label oriented for local and global markets;
-        - Led the decoupling of the Seller stock management monolith application;
-        - Built the technical roadmap which defined the changes and vision for the platform;
+      - Managed a team of 5 Developers in AMS and provided mentoring for the team working from abroad.
+      - Redesigned the platform to be white-label oriented for local and global markets;
+      - Led the decoupling of the Seller stock management monolith application;
+      - Built the technical roadmap which defined the changes and vision for the platform;
 
   - role: Senior Software Engineer
     time: Jan 2017 - Nov 2018
