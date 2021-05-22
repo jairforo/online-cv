@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: jairforo@gmail.com
-    phone: +31 611 989 431
+    phone: +31(0) 611989431
     website: #about.me/jairforo #do not add http://
     linkedin: jairforo/?locale=en_US
     github: jairforo
@@ -45,8 +45,9 @@ sidebar:
 career-profile:
     title: Carrer Profile
     summary: |
-      I am a Senior Software Engineer with 10+ years of focused experience in PHP applications,  with
-      expertise in software architecture, quality processes, database design and API implementations.
+      I am a Senior Software Engineer with more than 10 years of experience in web applications using PHP, JS and Agile methodologies.
+      I like building projects that bring innovation and improvements to people and companies. 🚀
+      Lately, I have been dedicating more time to learn about Python and Penetration testing, and I am just in love with both.
 
 education:
     - degree: Bachelor in Information System
@@ -60,17 +61,13 @@ experiences:
       time: Jan 2020 - Present
       company: Tradus B.V, Amsterdam - Netherlands
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Software Engineer responsible for leading the technical decisions and software design.
+
+        - Led the improvements that increased the overall page speed by 25%;
+        - Reduced the complexity of the projects by defining better domains;
+        - Implemented Grafana as the interactive visualization layer for monitoring;
+
+        Kudos Award Winner 2020 for being collaborative and provide support across departments.
 
     - role: Senior Software Engineer
       time: Jan 2017 - Dec 2019
