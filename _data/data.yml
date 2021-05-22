@@ -3,169 +3,178 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Jair Foro
-    tagline: Senior Software Engineer
-    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Jair Foro
+  tagline: Senior Software Engineer
+  avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: jairforo@gmail.com
-    phone: +31(0) 611989431
-    website: #about.me/jairforo #do not add http://
-    linkedin: jairforo/?locale=en_US
-    github: jairforo
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: #'@jairforo'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: jairforo@gmail.com
+  phone: +31(0) 611989431
+  website: #about.me/jairforo #do not add http://
+  linkedin: jairforo/?locale=en_US
+  github: jairforo
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: #'@jairforo'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Portuguese
-        level: Native
+  languages:
+    - idiom: Portuguese
+      level: Native
 
-      - idiom: English
-        level: Professional
+    - idiom: English
+      level: Professional
 
-    interests:
-      - item: #Climbing
-        link:
+  interests:
+    - item: #Climbing
+      link:
 
-      - item: #Snowboarding
-        link:
+    - item: #Snowboarding
+      link:
 
-      - item: #Cooking
-        link:
+    - item: #Cooking
+      link:
 
 career-profile:
-    title: Carrer Profile
-    summary: |
-      I am a Senior Software Engineer with more than 10 years of experience in web applications using PHP, JS and Agile methodologies.
-      I like building projects that bring innovation and improvements to people and companies. 🚀
-      Lately, I have been dedicating more time to learn about Python and Penetration testing, and I am just in love with both.
+  title: Carrer Profile
+  summary: |
+    I am a Senior Software Engineer with more than 10 years of experience in web applications using PHP, JS and Agile methodologies.
+    I like building projects that bring innovation and improvements to people and companies. 🚀
+    Lately, I have been dedicating more time to learn about Python and Penetration testing, and I am just in love with both.
 
 education:
-    - degree: Bachelor in Information System
-      university: University Center of Federal District
-      time: 2008 - 2012
-      details: |
-        Member of the Academic Directory of students of Technology of Information
+  - degree: Bachelor in Information System
+    university: University Center of Federal District
+    time: 2008 - 2012
+    details: |
+      Member of the Academic Directory of students of Technology of Information
 
 experiences:
-    - role: Tech Lead
-      time: Jan 2020 - Present
-      company: Tradus B.V, Amsterdam - Netherlands
+  - role: Tech Lead
+    time: Jan 2020 - Present
+    company: Tradus B.V, Amsterdam - Netherlands
+    details: |
+      Software Engineer responsible for leading the technical decisions and software design.
+
+      - Led the improvements that increased the overall page speed by 25%;
+      - Reduced the complexity of the projects by defining better domains;
+      - Implemented Grafana as the interactive visualization layer for monitoring;
+
+      Kudos Award Winner 2020 for being collaborative and provide support across departments.
+
+  - role: Tech Lead
+      time: Nov 2018 - Dec 2019
+      company: OLX Group, Amsterdam - Netherlands
       details: |
         Software Engineer responsible for leading the technical decisions and software design.
 
-        - Led the improvements that increased the overall page speed by 25%;
-        - Reduced the complexity of the projects by defining better domains;
-        - Implemented Grafana as the interactive visualization layer for monitoring;
+        - Managed a team of 5 Developers in AMS and provided mentoring for the team working from abroad.
+        - Redesigned the platform to be white-label oriented for local and global markets;
+        - Led the decoupling of the Seller stock management monolith application;
+        - Built the technical roadmap which defined the changes and vision for the platform;
 
-        Kudos Award Winner 2020 for being collaborative and provide support across departments.
+  - role: Senior Software Engineer
+    time: Jan 2017 - Nov 2018
+    company: OLX Group, Lisbon - Portugal
+    details: |
+      Responsible for the Developer eXperience ensuring scalability, availability and performance.
 
-    - role: Tech Lead
-        time: Nov 2018 - Dec 2019
-        company: OLX Group, Amsterdam - Netherlands
-        details: |
-          Software Engineer responsible for leading the technical decisions and software design.
+      - Applied TDD as the main approach for the seller API;
+      - Implemented the API documentation using OpenAPI v3;
+      - Built the integration with AWS services for storage of images and Queue using S3;
 
-          - Managed a team of 5 Developers in AMS and provided mentoring for the team working from abroad.
-          - Redesigned the platform to be white-label oriented for local and global markets;
-          - Led the decoupling of the Seller stock management monolith application;
-          - Built the technical roadmap which defined the changes and vision for the platform;
+      Stack: Laravel 8, Symfony, MySQL, Redis, S3, SQS, EC2, Kibana, Grafana, Docker, Solr, PHP, New Relic, Sonarqube, Gitlab CI, Jenkins, Linux.
 
-    - role: Senior Software Engineer
-      time: Jan 2017 - Nov 2018
-      company: OLX Group, Lisbon - Portugal
-      details: |
-        Responsible for the Developer eXperience ensuring scalability, availability and performance.
+  - role: Full Stack Developer
+    time: May 2016 - Jan 2017
+    company: Icomunicação, Brasília - Brazil
+    details: |
+      - Development of web portals and Intranet;
+      - Development of a browser game that helps entrepreneurs with the educational path;
 
-        - Applied TDD as the main approach for the seller API;
-        - Implemented the API documentation using OpenAPI v3;
-        - Built the integration with AWS services for storage of images and Queue using S3;
+      Stack: .NET Framework, WebForms, NodeJs, Angular 2, PHP, Microsoft SQL Server, Drupal, HTML, Ionic 2, Phaser.io.
 
-        Stack: Laravel 8, Symfony, MySQL, Redis, S3, SQS, EC2, Kibana, Grafana, Docker, Solr, PHP, New Relic, Sonarqube, Gitlab CI, Jenkins, Linux.
+  - role: IT Consultant
+    time: Aug 2014 - May 2016
+    company: Ministery of Education, Brasília - Brazil
+    details: |
+      Consulting in PHP software development, analysis, and data modeling, using SIMEC Framework and PostgreSQL.
 
-    - role: Full Stack Developer
-      time: May 2016 - Jan 2017
-      company: Icomunicação, Brasília - Brazil
-      details: |
-        - Development of web portals and Intranet;
-        - Development of a browser game that helps entrepreneurs with the educational path;
+  - role: PHP Programmer
+    time: Jun 2013 - Jun 2014
+    company: Cast Informática, Brasília - Brazil
+    details: |
+      I've collaborated with the software development and principles of Scrum methodology.
 
-        Stack: .NET Framework, WebForms, NodeJs, Angular 2, PHP, Microsoft SQL Server, Drupal, HTML, Ionic 2, Phaser.io.
+      - Built a platform to receive innovative ideas that will support the education system in Brazil.
 
-    - role: IT Consultant
-      time: Aug 2014 - May 2016
-      company: Ministery of Education, Brasília - Brazil
-      details: |
-        Consulting in PHP software development, analysis, and data modeling, using SIMEC Framework and PostgreSQL.
+      Stack: Zend Framework 2, PL/SQL, Bootstrap, Jquery, CSS, Doctrine 2
 
-    - role: PHP Programmer
-      time: Jun 2013 - Jun 2014
-      company: Cast Informática, Brasília - Brazil
-      details: |
-        I've collaborated with the software development and principles of Scrum methodology.
+  - role: PHP Programmer
+    time: Feb 2012 - Apr 2013
+    company: Confidere IT Services, Brasília - Brazil
+    details: |
+      Analysis, Set Architecture and OO PHP applications development following Marketplace Design Patterns.
+      Provide support for new developers and Development Team hires.
 
-        - Built a platform to receive innovative ideas that will support the education system in Brazil.
+      - Built a system to manage the families that are living inside the environment preservation areas managed by the government.
+      - Built a system to manage the subscriptions of people in the community interested in practising sports;
 
-        Stack: Zend Framework 2, PL/SQL, Bootstrap, Jquery, CSS, Doctrine 2
+      Stack: Zend Framework 2, Bootstrap, MySQL, PHP.
 
-    - role: PHP Programmer
-      time: Feb 2012 - Apr 2013
-      company: Confidere IT Services, Brasília - Brazil
-      details: |
-        Analysis, Set Architecture and OO PHP applications development following Marketplace Design Patterns.
-        Provide support for new developers and Development Team hires.
+  - role: PHP Developer | Internship
+    time: Aug 2011 - Oct 2011
+    company: FUNAI, Brasília - Brazil
+    details: |
+      - Software development to map the territory of Indigenous communities.
 
-        - Built a system to manage the families that are living inside the environment preservation areas managed by the government.
-        - Built a system to manage the subscriptions of people in the community interested in practising sports;
+      Stack: PHP, I3GEO, PostgreSQL
 
-        Stack: Zend Framework 2, Bootstrap, MySQL, PHP.
+  - role: Founder
+    time: Aug 2010 - Feb 2012
+    company: Brasíla Conectada IT Solutions, Brasília - Brazil
+    details: |
+      Responsible for prospecting new clients, Software development and managing the outsourcing team.
 
-    - role: PHP Developer | Internship
-      time: Aug 2011 - Oct 2011
-      company: FUNAI, Brasília - Brazil
-      details: |
-        - Software development to map the territory of Indigenous communities.
+      Stack: PHP, MySQL, Wordpress, HTML, CSS, Jquery.
 
-        Stack: PHP, I3GEO, PostgreSQL
+  - role: PHP Programmer
+    time: May 2010 - Nov 2010
+    company: Nova Mídia, Brasília - Brazil
+    details: |
+      - Website and E-commerce developments using PHP and WordPress;
+      - Content Management System development;
+      - SEO Optimization using webmaster tools and sitemaps
 
-    - role: Founder
-      time: Aug 2010 - Feb 2012
-      company: Brasíla Conectada IT Solutions, Brasília - Brazil
-      details: |
-        Responsible for prospecting new clients, Software development and managing the outsourcing team.
+      Stack: PHP, MySQL, HTML, Wordpress, JQuery, XML, CSS, Javascript.
 
-        Stack: PHP, MySQL, Wordpress, HTML, CSS, Jquery.
+  - role: PHP Developer | Internship
+    time: Jul 2009 - May 2010
+    company: INSS, Brasília - Brazil
+    details: |
+      Software development of the monitoring system of the Agencies of the
+      Social Security.
 
-    - role: PHP Programmer
-      time: May 2010 - Nov 2010
-      company: Nova Mídia, Brasília - Brazil
-      details: |
-        - Website and E-commerce developments using PHP and WordPress;
-        - Content Management System development;
-        - SEO Optimization using webmaster tools and sitemaps
+      - Refactor and Maintenance of legacy projects;
+      - Generate dynamic reports and charts to support the management decisions;
 
-        Stack: PHP, MySQL, HTML, Wordpress, JQuery, XML, CSS, Javascript.
+      Stack: PHP, MySQL, HTML, Javascript.
 
-    - role: PHP Developer | Internship
-      time: Jul 2009 - May 2010
-      company: INSS, Brasília - Brazil
-      details: |
-        Software development of the monitoring system of the Agencies of the
-        Social Security.
+awards:
+  - title: Kudos Award Winner 2020
+    time: Dec 2020
+    company: Tradus B.V
+    details: |
+      The Kudos award is the recognition given by the team for the member that most worked
+      in collaboration across departments and gave the best to unblock and support the team.
 
-        - Refactor and Maintenance of legacy projects;
-        - Generate dynamic reports and charts to support the management decisions;
-
-        Stack: PHP, MySQL, HTML, Javascript.
 projects:
     title: Projects
     intro: >
