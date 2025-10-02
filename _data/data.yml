@@ -120,12 +120,11 @@ certifications:
   - name: AWS Certified Solutions Architect - Associate
     start: Apr 2025
     end: Apr 2028
-    organization: Amazon Web Services (AWS)
+    organization: Amazon Web Services
     credentialid: 500797133
     credentialurl: https://www.credly.com/badges/e435f96a-ebaf-47eb-bf21-977c82df8c46
-    credentialname: AWS
-    details: |
-      Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.
+    credentialname: Credly
+    details:
 
   - name: Certified DevSecOps Professional (CDP)
     start: Mar 2021
@@ -133,9 +132,8 @@ certifications:
     organization: Practical DevSecOps
     credentialid: 7115cf49-7c46-4f6b-be11-207c2e4816c8
     credentialurl: https://www.credly.com/earner/earned/badge/7115cf49-7c46-4f6b-be11-207c2e4816c8
-    credentialname: Practical DevSecOps
-    details: |
-      The CDP credential validates the practical expertise to understand, implement and manage the DevSecOps program in an organization. A CDP can assess the current state of DevSecOps, embed security as part of DevOps, manage vulnerabilities and improve the overall Maturity Level. CDP holders can also identify gaps in secure SDLC implementation, Implement security as part of DevOps using Software Component Analysis, Static Analysis, Dynamic Analysis tools, Infrastructure as Code & Compliance as code.
+    credentialname: Credly
+    details:
 
 awards:
   title: Honors & Awards
