@@ -59,39 +59,19 @@ sidebar:
 
 
 career-profile:
-  title: Career Profile
+  title: About
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I’m a technical leader, software engineer, and AWS Certified Solutions Architect with 14+ years of experience guiding engineering teams to deliver secure, scalable, and business-driven technology platforms.
+    I combine deep software development expertise with hands-on leadership—mentoring engineers, aligning stakeholders, and ensuring that technical decisions create lasting business value. My career has been defined by shaping cloud strategies, driving digital transformations, and embedding security best practices into every stage of delivery.
+    I also founded Stampy, a digital loyalty platform for SMBs, where I applied my engineering and leadership skills—driving product vision, software architecture, and go-to-market strategy.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: BSc in Information Systems
+    university: University Center of Federal District - Brazil 
+    time: Jul 2008 - Jul 2012
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Activities and societies: Member of Directory Academic of the technology of information. DATI
 
 experiences:
   title: Experiences
