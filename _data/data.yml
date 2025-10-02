@@ -140,11 +140,18 @@ certifications:
 awards:
   title: Honors & Awards
   list:
+  - name: Apollo Awards 2023 - The Johnson Award for Courage
+    time: Dec 2023
+    company:AND Digital
+    details: |
+      The Johnson Award for Courage honours individuals who have acted with courage and 
+      leadership driving new initiatives, and opportunities without hesitations.
+
   - name: Kudos Award Winner 2020
     time: Dec 2020
     company: OLX Group | Tradus B.V
     details: |
-      The Kudos award is the recognition given by the team for the member that most worked
+      The Kudos award is the recognition given by the team for the member that most worked 
       in collaboration across departments and gave the best to unblock and support the team.
 
 projects:
