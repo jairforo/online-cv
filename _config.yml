@@ -2,11 +2,11 @@
 
 # Site Settings
 title: Jair Foro | Software Engineer & AWS Solutions Architect
-url: 'http://webjeda.com'
+url: 'https://jairforo.github.io/online-cv/'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
-#baseurl: '/online-cv' 
+baseurl: '/online-cv' 
 
 description: Online CV of Jair Foro — experienced Technical Leader, Software Engineer, and AWS Certified Solutions Architect. Explore skills, projects, and career journey.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
